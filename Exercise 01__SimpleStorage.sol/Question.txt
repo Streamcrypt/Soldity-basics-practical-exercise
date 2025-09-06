@@ -1,0 +1,1 @@
+Create a Solidity contract that stores a single number, allows it to be updated, and can be read.

@@ -1,0 +1,6 @@
+Create a Solidity contract with four functions— add, subtract, multiply, divide.
+
+Notes:
+Each function takes two positive integers as input and returns the result.
+Users call only the function they want.
+Division should handle divide-by-zero safely.

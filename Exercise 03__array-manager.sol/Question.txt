@@ -1,0 +1,6 @@
+Create a Solidity contract that can store, manage, and retrieve a list of numbers.
+
+Include functions to add numbers to the array.
+Include a function to get a number at a specific index.
+Include a function to get the length of the array.
+Include a function to reset or clear the array.

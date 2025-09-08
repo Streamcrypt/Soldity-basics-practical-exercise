@@ -1,0 +1,7 @@
+Create a contract that:
+
+1. Uses a mapping from addresses to numbers.
+2. Lets anyone add or update a value for a given address.
+3. Lets anyone decrease the stored value for a given address.
+4. Lets anyone reset the stored value for a given address back to zero.
+

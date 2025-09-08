@@ -1,0 +1,10 @@
+
+Create a contract that:
+
+1. Lets a user **add numbers** into an array.
+2. Provides a function to **calculate the sum** of all numbers in the array.
+3. Provides a function to **find the largest number** in the array.
+4. Provides a function to **clear the entire array**.
+5. Provides a function to **view all numbers** in the array.
+6. Ensure that functions that read the array without modifying it are properly marked with `view`.
+7. Use `require` statements to handle empty arrays where necessary.
